@@ -1,4 +1,5 @@
 ### Hi there 👋
+### I'm a computer science student!
 
 <!--
 **EnzoRibas23/EnzoRibas23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
