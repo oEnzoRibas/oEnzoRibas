@@ -1,6 +1,7 @@
 # 👋 Hello there!
 ## I'm Enzo Ribas. A passionate Developer and tech enthusiast.
-### - 🔭 I’m currently working on ...
+### - 👩‍💻 I’m currently working as Back End Developer at CODE[] and I also I'm a AV Engineer and Producer
+### - 🌱 I’m currently learning Java, Python and C#
 <!--
 **EnzoRibas23/EnzoRibas23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
