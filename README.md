@@ -1,7 +1,7 @@
 # 👋 Hello there!
 ## I'm Enzo Ribas. A passionate Developer and tech enthusiast.
 ### - 👩‍💻 I’m currently working as Full Stack Developer at CODE[] and I also am a AV Engineer and Producer
-### - 🌱 I’m currently learning Java, Python and C#
+### - 🌱 I’m currently learning Java, JavaScript, Python, C and C#
 
 <div>
 <a href="https://github.com/oEnzoRibas">
