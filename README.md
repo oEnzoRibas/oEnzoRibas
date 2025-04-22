@@ -1,6 +1,6 @@
 # 👋 Hello there!
 ## I'm Enzo Ribas. A passionate Developer and tech enthusiast.
-### - 👩‍💻 I’m currently working as Full Stack Developer at CODE[] and I also am a AV Engineer and Producer
+### - 👩‍💻 I’m currently working as Software Engineer at Tribunal Regional da 6ª Região and as Full Stack Developer at CODE[] 
 ### - 🌱 I’m currently learning Java, JavaScript, Python, C and C#
 
 <div>
