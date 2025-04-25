@@ -40,7 +40,7 @@
   </a>
 </p>
 
-### 📚 Frameworks, Libraries, Technolofies and Platforms
+### 📚 Frameworks, Libraries, Technologies and Platforms
 
 <p align="center">
   <a href="https://skillicons.dev">
