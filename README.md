@@ -44,7 +44,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,react,nodejs,spring,dotnet,bootstrap,arduino,docker,postman,unity,anaconda,opencv" />
+    <img src="https://skillicons.dev/icons?i=git,github,react,nodejs,spring,maven,dotnet,bootstrap,arduino,docker,postman,unity,anaconda,opencv" />
   </a>
 </p>
 
