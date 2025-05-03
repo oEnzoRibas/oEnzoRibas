@@ -9,7 +9,7 @@
 <!---- <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oEnzoRibas&exclude_repo=python-datascience&hide=html&layout=compact&langs_count=7&theme=tokyonight"/> WITHOUT PYTHON DS REPO
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oEnzoRibas&hide=html,jupyter%20notebook&layout=compact&langs_count=7&theme=tokyonight"/> WITH PYTHON DS REPO
 -->
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oEnzoRibas&exclude_repo=python-datascience&hide=html,css,jupyter%20notebook&layout=compact&langs_count=7&theme=tokyonight"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oEnzoRibas&exclude_repo=python-datascience&hide=html,css,jupyter%20notebook,shaderlab&layout=compact&langs_count=7&theme=tokyonight"/>
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=oEnzoRibas&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 </div>
 
