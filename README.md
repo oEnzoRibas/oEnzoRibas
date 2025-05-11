@@ -17,6 +17,10 @@
 -->
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oEnzoRibas&exclude_repo=python-datascience&hide=html,css,hlsl,jupyter%20notebook,shaderlab&layout=compact&langs_count=7&theme=tokyonight"/>
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=oEnzoRibas&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<a href="https://github.com/oEnzoRibas">
+  <!-- Gráfico de atividades em todos os repositórios -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=oEnzoRibas&bg_color=1a1b27&color=9cf&line=3178c6&point=9cf&area=true&hide_border=true"/>
+</a>
 </div>
 
 ## Social Media:
