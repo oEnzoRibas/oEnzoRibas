@@ -79,6 +79,9 @@
 ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
 ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
 
+<div align="center" >
+     <img src="https://github-profile-trophy.vercel.app/?username=oEnzoRibas&row=1&column=6&theme=dracula&margin-w=15&margin-h=15"/>
+</div>
 <!--
 **EnzoRibas23/EnzoRibas23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
