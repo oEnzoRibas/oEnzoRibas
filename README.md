@@ -1,13 +1,13 @@
 # 👋 Hello there!
 ## I'm Enzo Ribas. A passionate Developer and tech enthusiast.
-## - I am Majoring 📚
-### - ***Computer Science*** @ *Centro Universitário Dom Helder Câmara*
+## - I'm a Major in 📚
+### - ***Computer Science*** @ *Centro Universitário Dom Helder*
 <!---
 ### - **Mechanical Engineering** @ *CEFET (Centro Federal de Educação Tecnológica de Minas Gerais)*
 --->
 ## - 👩‍💻 I’m currently working as
-### - Software Engineer Intern @ Tribunal Regional da 6ª Região
-### - Full Stack Developer @ CODE[] 
+### - Software Engineer @ Tribunal Regional da 6ª Região
+### - Full Stack Developer & Tech Lead @ CODE[] 
 
 ## - 🌱 My best languages are: Java, Python, C, C# and JavaScript
 
