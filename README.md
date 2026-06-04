@@ -1,4 +1,5 @@
-# 👋 Hello there!
+<h1 align="center">Hey 👋Hello There!</h1>
+
 ## I'm Enzo Ribas. A passionate Developer and tech enthusiast.
 ## - I'm a Major in 📚
 ### - ***Computer Science*** @ *Centro Universitário Dom Helder*
@@ -9,10 +10,35 @@
 ### - Software Engineer @ Tribunal Regional da 6ª Região
 ### - Full Stack Developer & Tech Lead @ CODE[] 
 
-## - 🌱 My best languages are: Java, Python, C, C# and JavaScript
-
 <div>
 <a href="https://github.com/oEnzoRibas">
+
+## 👨‍💻 Tech Stack
+
+### Languages
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,c,cpp,py,ts,r&perline=6" />
+</p>
+
+### Frameworks & Technologies
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,spring,docker,anaconda,opencv,aws,git,github,maven,dotnet,bootstrap,arduino,postman,unity&perline=8" />
+</p>
+
+### Databases
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=firebase,mysql,postgres&perline=3" />
+</p>
+
+### Design
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=figma,ps,ae,ai,pr,blender,autocad&perline=7" />
+</p>
+
+### Additional Technologies
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nextjs,tailwind,graphql,go,rust,nestjs&perline=6" />
+</p>
 
 <!---- <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oEnzoRibas&exclude_repo=python-datascience&hide=html&layout=compact&langs_count=7&theme=tokyonight"/> WITHOUT PYTHON DS REPO
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oEnzoRibas&hide=html,jupyter%20notebook&layout=compact&langs_count=7&theme=tokyonight"/> WITH PYTHON DS REPO
@@ -42,48 +68,11 @@
 ![Khan Academy](https://img.shields.io/badge/KhanAcademy-%2314BF96.svg?style=for-the-badge&logo=KhanAcademy&logoColor=white)
 ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)
 
-
-## 👨‍💻 Tech Stack
-
-### 📋 Languages
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,c,cpp,cs,py,ts,js,r,html,css" />
-  </a>
+  <img src="https://raw.githubusercontent.com/oEnzoRibas/oEnzoRibas/pacman-output/pacman-contribution-graph-dark.svg" alt="Pacman contribution graph" />
 </p>
 
-### 📚 Frameworks, Libraries, Technologies and Platforms
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,react,nodejs,spring,maven,dotnet,bootstrap,arduino,docker,postman,unity,anaconda,opencv" />
-  </a>
-</p>
-
-### 💾 Databases
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=firebase,mysql,postgres" />
-  </a>
-</p>
-
-### 🎨 Design
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=figma,ps,ae,ai,pr,blender,autocad" />
-  </a>
-</p>
-
-### 🖥️ ML/DL
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
-
-<div align="center" >
-     <img src="https://github-profile-trophy.vercel.app/?username=oEnzoRibas&row=1&column=6&theme=dracula&margin-w=15&margin-h=15"/>
-</div>
 <!--
 **EnzoRibas23/EnzoRibas23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
