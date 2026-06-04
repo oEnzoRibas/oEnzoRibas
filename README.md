@@ -1,5 +1,9 @@
 <h1 align="center">Hey 👋Hello There!</h1>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/oEnzoRibas/oEnzoRibas/pacman-output/pacman-contribution-graph-dark.svg" alt="Pacman contribution graph" />
+</p>
+
 ## I'm Enzo Ribas. A passionate Developer and tech enthusiast.
 ## - I'm a Major in 📚
 ### - ***Computer Science*** @ *Centro Universitário Dom Helder*
@@ -67,11 +71,6 @@
 ![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)
 ![Khan Academy](https://img.shields.io/badge/KhanAcademy-%2314BF96.svg?style=for-the-badge&logo=KhanAcademy&logoColor=white)
 ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/oEnzoRibas/oEnzoRibas/pacman-output/pacman-contribution-graph-dark.svg" alt="Pacman contribution graph" />
-</p>
-
 
 <!--
 **EnzoRibas23/EnzoRibas23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
