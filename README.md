@@ -26,12 +26,12 @@
 
 ### Frameworks & Technologies
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,spring,docker,anaconda,opencv,aws,git,github,maven,dotnet,bootstrap,arduino,postman,unity&perline=8" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,spring,docker,opencv,aws,git,maven,dotnet,&perline=8" />
 </p>
 
 ### Databases
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=firebase,mysql,postgres&perline=3" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres&perline=3" />
 </p>
 
 ### Design
