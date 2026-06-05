@@ -26,7 +26,7 @@
 
 ### Frameworks & Technologies
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,spring,docker,opencv,aws,git,maven,dotnet,&perline=8" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,spring,docker,opencv,aws,git,maven,&perline=8" />
 </p>
 
 ### Databases
@@ -41,7 +41,7 @@
 
 ### Additional Technologies
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,tailwind,graphql,go,rust,nestjs&perline=6" />
+  <img src="https://skillicons.dev/icons?i=nextjs,tailwind,graphql,go,rust&perline=6" />
 </p>
 
 <!---- <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oEnzoRibas&exclude_repo=python-datascience&hide=html&layout=compact&langs_count=7&theme=tokyonight"/> WITHOUT PYTHON DS REPO
