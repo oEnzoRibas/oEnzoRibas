@@ -2,7 +2,7 @@ name: Generate Pacman Animation
 
 on:
   schedule:
-    - cron: "0 1/23 1 * *"
+    - cron: "0 */12 * * 1"
 
   workflow_dispatch:
 
@@ -16,7 +16,6 @@ permissions:
 jobs:
   generate:
     runs-on: ubuntu-latest
-    timeout-minutes: 20
 
     steps:
       - name: Checkout
@@ -28,26 +27,15 @@ jobs:
           github_user_name: ${{ github.repository_owner }}
           games: pacman
 
-      - name: Show generated files
-        run: find . -type f
-
-      - name: Debug workspace
+      - name: Prepare deploy directory
         run: |
-          pwd
-          ls -lah
-          file dist || true
-          find . -maxdepth 2
+          mkdir -p deploy
 
-      - name: Prepare deploy folder
-        run: |
-            rm -rf deploy
-            mkdir -p deploy
-        
-            find . -name "*.svg" -exec cp {} deploy/ \;
-        
-            ls -R deploy
+          cp dist/pacman-contribution-graph.svg deploy/pacman-contribution-graph.svg
+          
+          cp dist/pacman-contribution-graph.svg deploy/pacman-contribution-graph-dark.svg
 
-      - name: Deploy to pacman-output
+      - name: Deploy
         uses: peaceiris/actions-gh-pages@v4
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
