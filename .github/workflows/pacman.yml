@@ -31,18 +31,26 @@ jobs:
       - name: Show generated files
         run: find . -type f
 
+      - name: Debug workspace
+        run: |
+          pwd
+          ls -lah
+          file dist || true
+          find . -maxdepth 2
+
       - name: Prepare deploy folder
         run: |
-          mkdir dist
-
-          find . -name "*.svg" -exec cp {} dist/ \;
-
-          ls -R dist
+            rm -rf deploy
+            mkdir -p deploy
+        
+            find . -name "*.svg" -exec cp {} deploy/ \;
+        
+            ls -R deploy
 
       - name: Deploy to pacman-output
         uses: peaceiris/actions-gh-pages@v4
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_branch: pacman-output
-          publish_dir: ./dist
+          publish_dir: ./deploy
           force_orphan: true
