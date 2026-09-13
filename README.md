@@ -14,8 +14,20 @@
 ### - Software Engineer @ Tribunal Regional da 6ª Região
 ### - Full Stack Developer & Tech Lead @ CODE[] 
 
+
+## 🎧 Let's listen to some good music
+
+<p align="center">
+  <i>A song I've been enjoying lately:</i>
+</p>
+
+<p align="center">
+  <a href="https://open.spotify.com/intl-pt/track/1OEoNpiyqBghuEUaT6Je6U?si=247a63134df449fb" target="_blank">
+    <img src="https://img.shields.io/badge/🎵_Currently_Listening-PATIENCE-1DB954?style=for-the-badge&logo=spotify&logoColor=white" />
+  </a>
+</p>
+
 <div>
-<a href="https://github.com/oEnzoRibas">
 
 ## 👨‍💻 Tech Stack
 
