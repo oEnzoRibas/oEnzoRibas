@@ -22,49 +22,23 @@
 </p>
 
 <p align="center">
-  <a href="https://open.spotify.com/intl-pt/track/1OEoNpiyqBghuEUaT6Je6U?si=247a63134df449fb" target="_blank">
-    <img src="https://img.shields.io/badge/🎵_Currently_Listening-PATIENCE-1DB954?style=for-the-badge&logo=spotify&logoColor=white" />
+  <a href="https://open.spotify.com/intl-pt/track/7H7NI75DdeaOW7c70oYtjM?si=d9e0bd6caeb148a5" target="_blank">
+    <img src="https://img.shields.io/badge/🎵_Currently_Listening-LIFE IN TECHNICOLOR ii-1DB954?style=for-the-badge&logo=spotify&logoColor=white" />
   </a>
 </p>
 
 <div>
 
 ## 👨‍💻 Tech Stack
-
-### Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,c,cpp,py,ts,r&perline=6" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,spring,docker,opencv,aws,git,maven,mysql,postgres,&perline=8" />
 </p>
-
-### Frameworks & Technologies
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,spring,docker,opencv,aws,git,maven,&perline=8" />
-</p>
-
-### Databases
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres&perline=3" />
-</p>
-
-### Design
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=figma,ps,ae,ai,pr,blender,autocad&perline=7" />
-</p>
-
-### Additional Technologies
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,tailwind,graphql,go,rust&perline=6" />
-</p>
-
 <!---- <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oEnzoRibas&exclude_repo=python-datascience&hide=html&layout=compact&langs_count=7&theme=tokyonight"/> WITHOUT PYTHON DS REPO
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oEnzoRibas&hide=html,jupyter%20notebook&layout=compact&langs_count=7&theme=tokyonight"/> WITH PYTHON DS REPO
 -->
+
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oEnzoRibas&exclude_repo=python-datascience,web-development-class,DataBase-Systems,monitorias,&hide=html,css,hlsl,jupyter%20notebook,shaderlab&layout=compact&langs_count=7&theme=tokyonight"/>
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=oEnzoRibas&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<a href="https://github.com/oEnzoRibas">
-  <!-- Gráfico de atividades em todos os repositórios -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=oEnzoRibas&bg_color=1a1b27&color=9cf&line=3178c6&point=9cf&area=true&hide_border=true"/>
-</a>
 </div>
 
 ## Social Media:
@@ -73,28 +47,3 @@
 <a href="https://instagram.com/ribas_enzo/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/oenzoribas" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
-
-
-## 🎓 Education
-
-![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white)
-![Duolingo](https://img.shields.io/badge/Duolingo-%234DC730.svg?style=for-the-badge&logo=Duolingo&logoColor=white)
-![edX](https://img.shields.io/badge/edX-%2302262B.svg?style=for-the-badge&logo=edX&logoColor=white)
-![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)
-![Khan Academy](https://img.shields.io/badge/KhanAcademy-%2314BF96.svg?style=for-the-badge&logo=KhanAcademy&logoColor=white)
-![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)
-
-<!--
-**EnzoRibas23/EnzoRibas23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
