@@ -1,7 +1,20 @@
 <h1 align="center">Hey 👋Hello There!</h1>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/oEnzoRibas/oEnzoRibas/pacman-output/pacman-contribution-graph-dark.svg" alt="Pacman contribution graph" />
+  <picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/oEnzoRibas/oEnzoRibas/pacman-output/pacman-contribution-graph-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/oEnzoRibas/oEnzoRibas/pacman-output/pacman-contribution-graph.svg"
+  />
+  <img
+    alt="Pacman Contribution Graph"
+    src="https://raw.githubusercontent.com/oEnzoRibas/oEnzoRibas/pacman-output/pacman-contribution-graph.svg"
+  />
+</picture>
 </p>
 
 ## I'm Enzo Ribas. A passionate Developer and tech enthusiast.
