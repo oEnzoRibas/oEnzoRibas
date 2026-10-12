@@ -21,7 +21,33 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Generate pacman graph
+      - name: Generate Pacman - Attempt 1
+        id: pacman_1
+        continue-on-error: true
+        uses: abozanona/pacman-contribution-graph@main
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          games: pacman
+
+      - name: Wait before retry
+        if: steps.pacman_1.outcome == 'failure'
+        run: sleep 30
+
+      - name: Generate Pacman - Attempt 2
+        id: pacman_2
+        if: steps.pacman_1.outcome == 'failure'
+        continue-on-error: true
+        uses: abozanona/pacman-contribution-graph@main
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          games: pacman
+
+      - name: Wait before final retry
+        if: steps.pacman_2.outcome == 'failure'
+        run: sleep 60
+
+      - name: Generate Pacman - Attempt 3
+        if: steps.pacman_2.outcome == 'failure'
         uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: ${{ github.repository_owner }}
