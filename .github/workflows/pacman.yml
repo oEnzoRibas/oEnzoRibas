@@ -57,9 +57,13 @@ jobs:
         run: |
           mkdir -p deploy
 
-          cp dist/pacman-contribution-graph.svg deploy/pacman-contribution-graph.svg
-          
-          cp dist/pacman-contribution-graph.svg deploy/pacman-contribution-graph-dark.svg
+          # Light theme
+          cp dist/pacman-contribution-graph.svg \
+             deploy/pacman-contribution-graph.svg
+
+          # Dark theme
+          cp dist/pacman-contribution-graph-dark.svg \
+             deploy/pacman-contribution-graph-dark.svg
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v4
